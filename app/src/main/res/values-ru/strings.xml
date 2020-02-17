@@ -1,0 +1,23 @@
+
+<resources>
+    <string name="app_name">Викторина</string>
+    <string name="action_settings">Настройки</string>
+    <string name="number_of_choices">Номера вибора</string>
+    <string name="number_of_choices_description">Отображение 2, 4, 6 или 8 кнопок вибора</string>
+    <string name="world_regions">Регионы</string>
+    <string name="world_regions_description">Региони в приложении</string>
+    <string name="guess_country">Что это за страна?</string>
+    <string name="results">%1$d вопросов, %2$.02f%% верно</string>
+    <string name="incorrect_answer">Неверно!</string>
+    <string name="default_region_message">Один регион должен быть вибран. Северная Америка будет установлена по умолчанию</string>
+    <string name="restarting_quiz">Приложение будет перезагружено с новыми настройками</string>
+    <string name="question">Вопрос %1$d из %2$d</string>
+    <string name="reset_quiz">Перезагрузка приложения</string>
+    <string name="image_description">Image of the current flag in the quiz</string>
+    <string name="default_region">Северная Америка</string>
+    <string name="title_activity_settings">Настройки</string>
+
+
+    <string name="Language"> Выбор языка </string>
+    <string name="Language_description"> Этот язык будет установлен по умолчанию </string>
+</resources>
